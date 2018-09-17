@@ -1,0 +1,5 @@
+# 2018-2019 BCSE: COMPUTER SCIENCE
+
+# INTRODUCTION TO COMPUTER SCIENCE
+1. [Introduction]()
+2. [Variables]()
