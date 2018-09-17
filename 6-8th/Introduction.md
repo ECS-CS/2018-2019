@@ -86,6 +86,7 @@ public class HelloWorld
 
 # HOMEWORK
 1. Modify the HelloWorld.java program below to print "Hello" and "World" on 2 seperate lines.
+2. Right now this program is printing `Hello, world!` on the same line.
 ```java
 public class HelloWorld
 {
@@ -94,3 +95,11 @@ public class HelloWorld
   }
 }
 ```
+
+# HOMEWORK SUBMISSION
+1. For this assignment, write your solution on a piece of paper and it will be collected next class.
+    * MAKE SURE YOUR SUBMISSION HAS:
+      * YOUR FIRST AND LAST NAME
+      * CLASS NAME
+      * GRADE
+    * SUBMISSIONS WITHOUT ANY OF THESE WILL BE PENALIZED
