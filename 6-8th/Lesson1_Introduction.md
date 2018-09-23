@@ -58,7 +58,7 @@ public class HelloWorld
 }
 ```
 
-# ERRORS
+# SYNTAX
 
 1. Remove **semicolon** after `System.out.println("Hello, world!");`
 2. Misspell println `System.out.println("Hello, world!")`
@@ -97,9 +97,4 @@ public class HelloWorld
 ```
 
 # HOMEWORK SUBMISSION
-1. For this assignment, write your solution on a piece of paper and it will be collected next class.
-    * MAKE SURE YOUR SUBMISSION HAS:
-      * YOUR FIRST AND LAST NAME
-      * CLASS NAME
-      * GRADE
-    * SUBMISSIONS WITHOUT ANY OF THESE WILL BE PENALIZED
+## [How do I submit my assignment?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/HomeworkSubmission.md)
