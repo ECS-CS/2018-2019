@@ -11,7 +11,7 @@
    - [Homework](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson2/Lesson2_DataTypesVariables.md#homework)
    - [Classwork](https://github.com/ECS-CS/2018-2019/tree/master/6-8th/lessons/Lesson2/classwork)
 
-## RESOURCES
+# RESOURCES
 
 1. [Vocabulary](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/Vocabulary.md) (6-8th grade)
 2. [How do I submit my homework assignment?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/HomeworkSubmission.md) (6-8th grade)
