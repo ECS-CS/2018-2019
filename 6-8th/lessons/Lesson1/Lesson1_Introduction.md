@@ -85,4 +85,4 @@ public class HelloWorld
 ```
 
 # HOMEWORK SUBMISSION
-## [How do I submit my assignment?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/HomeworkSubmission.md)
+## [How do I submit my homework assignment?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/HomeworkSubmission.md)
