@@ -1,15 +1,17 @@
 # INTRODUCTION TO COMPUTER SCIENCE
 
 # OBJECTIVE
+
 1. Why Learn Java?
-2. Basics
-3. Hello World
-4. Datatypes
+2. Java Basics
+3. Our First Program
+4. Syntax Errors
 5. [Vocabulary](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/Vocabulary.md)
 
 # WHY LEARN JAVA?
 
 ## Relatively Simple to Use
+
 Java is a high level language, which means Java abstracts away (i.e. handles for you) most of the complex details of the machine (computer) such as memory management, etc. Thus, you can focus on programming instead of worrying about the little details many consider both tedious and difficult.
 
 ## Easier to Maintain
@@ -29,11 +31,12 @@ Modern Java programs are now even more performant thanks to mature JIT (just in 
 Community size is important because the larger a programming language community is, the more support you'd be likely to get. As you step into the programming world, you'll soon understand how vital support is, as the developer community is all about giving and receiving help.
 
 # SYNTAX
+
 1. **What is syntax?** If you look up the word syntax in a dictionary, you learn that it’s a set of rules on how to put words and phrases together in order to form good sentences. In other words, syntax means grammar.
 2. **How does this relate to programming?** In a programing context, syntax refers to the spelling and grammar of a programming language. Computers are inflexible machines that understand what you type only if you type it in the exact form that the computer expects. The expected form is called the syntax.
 3. **You’ll see this word a lot. It’s important to follow the syntax (how the code is written) exactly or your browser will not display your page properly.**
 
-# BASICS
+# JAVA BASICS
 
 1. Java program files must begin with a capital letter
 2. Must have a **.java** extension in order to compile the program
@@ -58,7 +61,7 @@ public class HelloWorld
 }
 ```
 
-# SYNTAX
+# SYNTAX ERRORS
 
 1. Remove **semicolon** after `System.out.println("Hello, world!");`
 2. Misspell println `System.out.println("Hello, world!")`
@@ -67,26 +70,11 @@ public class HelloWorld
 5. **Sometimes** the error messages are VERY helpful and descriptive and tell you exactly where the errors are, but sometimes the messages aren't helpeful and you have to investigate to fix them.
 6. Notice the **compiler** finds all errors before we run our programs.
 
-# DATATYPES
-
-1. **Numeric:** 1000, 3.14159
-    * **int:** stores numbers between -2147483648 to 2147483648
-    * **long:** stores numbers between -9223372036854775808 to 9223372036854775808
-    * **floating point types**
-        * **float:** 127 digits after decimal
-        * **double:** 1023 digits after decimal
-2. **Strings:** "Hello, world"
-    * 0 or more characters surrounded by double quotes
-    * any characters surrounded by quotes becomes a string
-3. **Characters:** 'a', 't'
-    * **char**: alphabetic characters stored as numeric value (ASCII)
-4. **Booleans:**
-    * either a **true** or **false** value
-    * used in comparisons
-
 # HOMEWORK
+
 1. Modify the HelloWorld.java program below to print "Hello" and "World" on 2 seperate lines.
 2. Right now this program is printing `Hello, world!` on the same line.
+
 ```java
 public class HelloWorld
 {
