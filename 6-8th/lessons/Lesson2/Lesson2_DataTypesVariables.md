@@ -1,5 +1,7 @@
 # INTRODUCTION TO COMPUTER SCIENCE
 
+# DATATYPES AND VARIABLES
+
 # OBJECTIVE
 1. What are datatypes?
 2. What are variables?

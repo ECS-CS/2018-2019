@@ -9,7 +9,8 @@
    - [Homework](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson1/Lesson1_Introduction.md#homework)
 2. [Lesson 2: Datatypes and Variables](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson2/Lesson2_DataTypesVariables.md)
    - [Homework](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson2/Lesson2_DataTypesVariables.md#homework)
-   - [Classwork](https://github.com/ECS-CS/2018-2019/tree/master/6-8th/lessons/Lesson2/classwork)
+3. [Lesson 3: Methods](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson3/Lesson3_Methods.md)
+   - [Homework](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/lessons/Lesson3/Lesson3_Methods.md#homework)
 
 # RESOURCES
 

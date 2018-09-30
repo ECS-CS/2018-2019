@@ -1,7 +1,8 @@
 # INTRODUCTION TO COMPUTER SCIENCE
 
-# OBJECTIVE
+# INTRODUCTION TO JAVA
 
+# OBJECTIVE
 1. Why Learn Java?
 2. Java Basics
 3. Our First Program
