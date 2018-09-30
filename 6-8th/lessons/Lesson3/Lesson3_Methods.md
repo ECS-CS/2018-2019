@@ -105,7 +105,7 @@ square(num);
     1. Define a `method` named `hello`.
     2. This method, will return a `String`, set the return type of the method to `String`.
     3. Give the method a parameter named `firstName` with a datatype of `String`.
-    4. Inside the body of the function `return "Hey, " + firstName + " how are you? I hope you are doing well."`.
+    4. Inside the body of the method `return "Hey, " + firstName + " how are you? I hope you are doing well."`.
 2. Create a method that subtracts two numbers.
 3. Create a method that adds two numbers.
 
