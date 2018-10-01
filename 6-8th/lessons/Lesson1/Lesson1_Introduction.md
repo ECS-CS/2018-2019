@@ -87,3 +87,7 @@ public class HelloWorld
 
 # HOMEWORK SUBMISSION
 ## [How do I submit my homework assignment?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/HomeworkSubmission.md)
+
+# EXTRA HELP
+
+## [Need help with your Homework? or Quiz/Test preparation?](https://github.com/ECS-CS/2018-2019/blob/master/6-8th/ExtraHelp.md)
