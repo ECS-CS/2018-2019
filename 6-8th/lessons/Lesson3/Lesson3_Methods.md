@@ -62,7 +62,7 @@ public class Example
 }
 ```
 
-![classwork](../../../assets/lesson3_example.jpg)
+![classwork](../../../assets/Lesson3_Example.jpg)
 
 # HOW DO I USE METHODS?
 
