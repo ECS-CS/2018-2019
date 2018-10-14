@@ -91,32 +91,41 @@ public class CoolExample
 {
   public static void main(String[] args)
   {
+    // DECLARE OUR VARIABLES
     String name, present, yourName;
     int age;
 
+    // DECLARE OUR VARIABLES THAT WILL CONNECT TO OUR KEYBOARD
     Scanner inputString = new Scanner(System.in);
     Scanner inputNumber = new Scanner(System.in);
 
+    // PROMPT THE USER
     System.out.print("What is the name of the gift giver? ");
+    // STORE ENTERED NUMBER IN VARIABLE
     name = inputString.nextLine();
+    // PROMPT THE USER
     System.out.print("What is the present they gave you? ");
+    // STORE ENTERED NUMBER IN VARIABLE
     present = inputString.nextLine();
+    // PROMPT THE USER
     System.out.print("How old were you on your birthday? ");
+    // STORE ENTERED NUMBER IN VARIABLE
     age = inputNumber.nextInt();
+    // PROMPT THE USER
     System.out.print("What is your name? ");
+    // STORE ENTERED NUMBER IN VARIABLE
     yourName = inputString.nextLine();
 
+    // OUTPUT
     System.out.println();
     System.out.println();
     System.out.println("Dear " + name + ", ");
     System.out.println();
     System.out.println("Thank you for the " + present + ". ");
-    System.out.println("I really like it. I can't believe ");
-    System.out.println("I'm already " + age + " years old, but ");
-    System.out.println("it doesn't feel that much different than ");
-    System.out.println("being " + (age - 1) + ". ");
     System.out.println();
-    System.out.println("Sincerly, ");
+    System.out.println("I really like it. I can't believe I'm already " + age + " years old, but it doesn't feel that much different than being " + (age - 1) + ". ");
+    System.out.println();
+    System.out.println("Sincerely, ");
     System.out.println();
     System.out.println(yourName);
   }
